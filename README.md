@@ -1,5 +1,7 @@
 # Sim2Real Diffusion: Learning Cross-Domain Adaptive Representations for Transferable Autonomous Driving
 
+[![DOI](https://zenodo.org/badge/1011140875.svg)](https://doi.org/10.5281/zenodo.15774863)
+
 ![framework](framework.jpg)
 
 <p align="justify">
