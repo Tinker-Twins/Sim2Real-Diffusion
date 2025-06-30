@@ -15,5 +15,5 @@ We encourage you to read and cite the following paper if you use any part of thi
 
 #### [Sim2Real Diffusion: Learning Cross-Domain Adaptive Representations for Transferable Autonomous Driving]()
 ```bibtex
-TODO
+
 ```
