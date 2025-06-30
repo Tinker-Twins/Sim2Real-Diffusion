@@ -8,12 +8,3 @@ Simulation-based design, optimization, and validation of autonomous driving algo
 </p>
 
 ![approach](approach.jpg)
-
-## Citation:
-
-We encourage you to read and cite the following paper if you use any part of this work for your research:
-
-#### [Sim2Real Diffusion: Learning Cross-Domain Adaptive Representations for Transferable Autonomous Driving]()
-```bibtex
-
-```
