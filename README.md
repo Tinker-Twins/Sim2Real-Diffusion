@@ -1,4 +1,4 @@
-<h1 align="justify">
+<h1>
 Sim2Real Diffusion: Learning Cross-Domain Adaptive Representations for Transferable Autonomous Driving
 </h1>
 
