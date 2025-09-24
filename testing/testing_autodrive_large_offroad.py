@@ -48,7 +48,7 @@ for i in range(len(image_files)):
         image=image, # Input image
         ip_adapter_image=style, # Style image
         generator=generator, # Pytorch generator
-        strength=0.4, # Adherence to input image (higher values = more freedom to change, lower values = more faithful)
+        strength=0.3, # Adherence to input image (higher values = more freedom to change, lower values = more faithful)
         num_inference_steps=10, # Denoising steps (e.g., 5 effectively gets converted to 3)
         guidance_scale=5.0 # Adherence to prompt (higher values = more prompt adherence, lower values = more creativity)
     ).images[0]
