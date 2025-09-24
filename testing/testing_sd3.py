@@ -54,5 +54,5 @@ for i in range(len(image_files)):
     # Display or save the result
     print(f"Saving result...")
     # output.show()
-    output = output.resize((640, 275))
+    output = output.resize((640, 360))
     output.save(os.path.join(output_folder, image_files[i]))
